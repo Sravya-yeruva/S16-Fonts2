@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+#bgc{
+    background-color:lightpink;
+}
+#heading {
+  background-color: burlywood;
+  font-size: 1.9rem;
+  border-radius: 10px;
+  text-align: center;
+  border: 10px solid blue;
+  padding: 5px;
+  font-family:sans-serif;
+  box-shadow:5px 5px 5px orange;
+}
+
+#bahubaliH {
+  background-color: aqua;
+  font-size: 1.6rem;
+  width: 115px;
+  border-radius: 5px;
+  padding: 5px;
+  font-family:monospace;
+}
+
+.bahubaliImg {
+  width: 250px;
+  height: 250px;
+}
+
+#bahubaliP1 {
+  font-size: 1.6rem;
+  font-family: serif;
+}
+
+#bahubaliP2 {
+  font-size: 1.3rem;
+  font-family: monospace;
+}
+
+#bahubalip3 {
+  font-size: 1rem;
+  font-family: fantasy;
+}
+
+#damselH {
+  background-color:lightslategray;
+  font-size: 1.8rem;
+  font-family:ser;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100px;
+}
+
+@font-face {
+  font-family:Brush ;
+  src: url("./fonts/Dhurjati\ Italic.otf");
+}
+
+#padmavatiP1{
+  font-family:Brush;
+  font-size:1.9rem;
+  
+}
+@font-face {
+  font-family:Gurajada ;
+  src: url("./fonts/Gurajada\ Italic.otf");
+}
+#padmavatiP2{
+  font-family:Gurajada;
+  font-size:1.8rem;
+}
+@font-face {
+  font-family:LakkiReddy;
+  src: url("./fonts/LakkiReddy\ Regular.otf");
+}
+#padmavatiP3{
+  font-family:LakkiReddy;
+  font-size:1.9rem;
+}
+
+
+#damselP1{
+   font-family: "Rubik Wet Paint", serif;
+    font-weight:400;
+    font-size:1.5rem;
+        
+}
+#damselP2{
+    font-family: "Danfo", serif;
+    font-weight:500;
+    background-color:lightskyblue;
+    font-size:1.8rem;
+}
+#damselP3{
+    font-size:1.9rem;
+    font-family: "Anton SC", sans-serif;
+    background-color:lightgray;
+}
+
+#padmavatiH{
+    font-size:1.8rem;
+    font-family:cursive;
+    background-color:lightcoral;
+    border-radius:5px;
+    padding:5px;
+    width:140px;
+}
